@@ -1,0 +1,87 @@
+##sequence-region AF372422.1 1 830
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+AF372422.1	Genbank	region	1	830	.	+	.	ID=AF372422.1:1..830;Dbxref=taxon:64320;gbkey=Src;mol_type=genomic RNA
+AF372422.1	Genbank	gene	1	830	.	+	.	ID=gene-E;Name=E;end_range=830,.;gbkey=Gene;gene=E;gene_biotype=protein_coding;partial=true;start_range=.,1
+AF372422.1	Genbank	CDS	1	830	.	+	1	ID=cds-AAK91609.1;Parent=gene-E;Dbxref=NCBI_GP:AAK91609.1;Name=AAK91609.1;end_range=830,.;gbkey=CDS;gene=E;partial=true;product=envelope protein;protein_id=AAK91609.1;start_range=.,1
+
+##sequence-region MT309008.1 1 570
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT309008.1	Genbank	region	1	570	.	+	.	ID=MT309008.1:1..570;Dbxref=taxon:64320;collection-date=2018;country=Mexico;gbkey=Src;genome=genomic;isolate=ZIKV-Yuc005;mol_type=genomic RNA;nat-host=Culex thriambus
+MT309008.1	Genbank	gene	1	570	.	+	.	ID=gene-POLY;Name=POLY;end_range=570,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT309008.1	Genbank	CDS	1	570	.	+	0	ID=cds-QJX19953.1;Parent=gene-POLY;Dbxref=NCBI_GP:QJX19953.1;Name=QJX19953.1;end_range=570,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QJX19953.1;start_range=.,1
+MT309008.1	Genbank	mature_protein_region_of_CDS	1	570	.	+	.	ID=id-QJX19953.1:1..190;Parent=cds-QJX19953.1;end_range=570,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MT309007.1 1 570
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT309007.1	Genbank	region	1	570	.	+	.	ID=MT309007.1:1..570;Dbxref=taxon:64320;collection-date=2019;country=Mexico;gbkey=Src;genome=genomic;isolate=ZIKV-Yuc004;mol_type=genomic RNA;nat-host=Culex nigripalpus
+MT309007.1	Genbank	gene	1	570	.	+	.	ID=gene-POLY-2;Name=POLY;end_range=570,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT309007.1	Genbank	CDS	1	570	.	+	0	ID=cds-QJX19952.1;Parent=gene-POLY-2;Dbxref=NCBI_GP:QJX19952.1;Name=QJX19952.1;end_range=570,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QJX19952.1;start_range=.,1
+MT309007.1	Genbank	mature_protein_region_of_CDS	1	570	.	+	.	ID=id-QJX19952.1:1..190;Parent=cds-QJX19952.1;end_range=570,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MT309006.1 1 570
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT309006.1	Genbank	region	1	570	.	+	.	ID=MT309006.1:1..570;Dbxref=taxon:64320;collection-date=2018;country=Mexico;gbkey=Src;genome=genomic;isolate=ZIKV-Yuc003;mol_type=genomic RNA;nat-host=Culex lactator
+MT309006.1	Genbank	gene	1	570	.	+	.	ID=gene-POLY-3;Name=POLY;end_range=570,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT309006.1	Genbank	CDS	1	570	.	+	0	ID=cds-QJX19951.1;Parent=gene-POLY-3;Dbxref=NCBI_GP:QJX19951.1;Name=QJX19951.1;end_range=570,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QJX19951.1;start_range=.,1
+MT309006.1	Genbank	mature_protein_region_of_CDS	1	570	.	+	.	ID=id-QJX19951.1:1..190;Parent=cds-QJX19951.1;end_range=570,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MT309005.1 1 570
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT309005.1	Genbank	region	1	570	.	+	.	ID=MT309005.1:1..570;Dbxref=taxon:64320;collection-date=2018;country=Mexico;gbkey=Src;genome=genomic;isolate=ZIKV-Yuc002;mol_type=genomic RNA;nat-host=Ochlerotatus taeniorhynchus
+MT309005.1	Genbank	gene	1	570	.	+	.	ID=gene-POLY-4;Name=POLY;end_range=570,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT309005.1	Genbank	CDS	1	570	.	+	0	ID=cds-QJX19950.1;Parent=gene-POLY-4;Dbxref=NCBI_GP:QJX19950.1;Name=QJX19950.1;end_range=570,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QJX19950.1;start_range=.,1
+MT309005.1	Genbank	mature_protein_region_of_CDS	1	570	.	+	.	ID=id-QJX19950.1:1..190;Parent=cds-QJX19950.1;end_range=570,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MT309004.1 1 570
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT309004.1	Genbank	region	1	570	.	+	.	ID=MT309004.1:1..570;Dbxref=taxon:64320;collection-date=2018;country=Mexico;gbkey=Src;genome=genomic;isolate=ZIKV-Yuc001;mol_type=genomic RNA;nat-host=Aedes aegypti
+MT309004.1	Genbank	gene	1	570	.	+	.	ID=gene-POLY-5;Name=POLY;end_range=570,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT309004.1	Genbank	CDS	1	570	.	+	0	ID=cds-QJX19949.1;Parent=gene-POLY-5;Dbxref=NCBI_GP:QJX19949.1;Name=QJX19949.1;end_range=570,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QJX19949.1;start_range=.,1
+MT309004.1	Genbank	mature_protein_region_of_CDS	1	570	.	+	.	ID=id-QJX19949.1:1..190;Parent=cds-QJX19949.1;end_range=570,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MT671184.1 1 268
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT671184.1	Genbank	region	1	268	.	+	.	ID=MT671184.1:1..268;Dbxref=taxon:64320;collection-date=24-Jun-2020;country=Mexico;gbkey=Src;isolate=M-6R;mol_type=genomic RNA;nat-host=bat
+MT671184.1	Genbank	gene	1	268	.	+	.	ID=gene-POLY-6;Name=POLY;end_range=268,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT671184.1	Genbank	CDS	1	268	.	+	1	ID=cds-QNC49706.1;Parent=gene-POLY-6;Dbxref=NCBI_GP:QNC49706.1;Name=QNC49706.1;end_range=268,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QNC49706.1;start_range=.,1
+MT671184.1	Genbank	mature_protein_region_of_CDS	1	268	.	+	.	ID=id-QNC49706.1:1..89;Parent=cds-QNC49706.1;end_range=268,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MT671183.1 1 301
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT671183.1	Genbank	region	1	301	.	+	.	ID=MT671183.1:1..301;Dbxref=taxon:64320;collection-date=24-Jun-2020;country=Mexico;gbkey=Src;isolate=M-1R;mol_type=genomic RNA;nat-host=bat
+MT671183.1	Genbank	gene	1	301	.	+	.	ID=gene-POLY-7;Name=POLY;end_range=301,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT671183.1	Genbank	CDS	1	301	.	+	2	ID=cds-QNC49705.1;Parent=gene-POLY-7;Dbxref=NCBI_GP:QNC49705.1;Name=QNC49705.1;end_range=301,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QNC49705.1;start_range=.,1
+MT671183.1	Genbank	mature_protein_region_of_CDS	1	301	.	+	.	ID=id-QNC49705.1:1..100;Parent=cds-QNC49705.1;end_range=301,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MN527290.1 1 331
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MN527290.1	Genbank	region	1	331	.	+	.	ID=MN527290.1:1..331;Dbxref=taxon:64320;collection-date=23-Aug-2017;country=Thailand: Kamphaeng Phet;gbkey=Src;genome=genomic;genotype=Asian;isolate=R012/Mosq/AFRIMS-THA/2017;mol_type=genomic RNA;nat-host=Aedes aegypti
+MN527290.1	Genbank	gene	1	331	.	+	.	ID=gene-POLY-8;Name=POLY;end_range=331,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MN527290.1	Genbank	CDS	1	331	.	+	0	ID=cds-QFQ59581.1;Parent=gene-POLY-8;Dbxref=NCBI_GP:QFQ59581.1;Name=QFQ59581.1;end_range=331,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QFQ59581.1;start_range=.,1
+MN527290.1	Genbank	mature_protein_region_of_CDS	1	331	.	+	.	ID=id-QFQ59581.1:1..110;Parent=cds-QFQ59581.1;end_range=331,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region KR816336.1 1 310
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KR816336.1	Genbank	region	1	310	.	+	.	ID=KR816336.1:1..310;Dbxref=taxon:64320;collection-date=May-2015;country=Brazil;gbkey=Src;genome=genomic;isolate=BR/UFBA/LabViro/17;isolation-source=blood;mol_type=genomic RNA;nat-host=Homo sapiens
+KR816336.1	Genbank	CDS	1	310	.	+	0	ID=cds-ALI57109.1;Dbxref=NCBI_GP:ALI57109.1;Name=ALI57109.1;end_range=310,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ALI57109.1;start_range=.,1
+
+##sequence-region KR816335.1 1 309
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KR816335.1	Genbank	region	1	309	.	+	.	ID=KR816335.1:1..309;Dbxref=taxon:64320;collection-date=May-2015;country=Brazil;gbkey=Src;genome=genomic;isolate=BR/UFBA/LabViro/18;isolation-source=blood;mol_type=genomic RNA;nat-host=Homo sapiens
+KR816335.1	Genbank	CDS	1	309	.	+	0	ID=cds-ALI57108.1;Dbxref=NCBI_GP:ALI57108.1;Name=ALI57108.1;end_range=309,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ALI57108.1;start_range=.,1
+
+##sequence-region KR816334.1 1 310
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KR816334.1	Genbank	region	1	310	.	+	.	ID=KR816334.1:1..310;Dbxref=taxon:64320;collection-date=May-2015;country=Brazil;gbkey=Src;genome=genomic;isolate=BR/UFBA/LabViro/Ex1;isolation-source=blood;mol_type=genomic RNA;nat-host=Homo sapiens
+KR816334.1	Genbank	CDS	1	310	.	+	0	ID=cds-ALI57107.1;Dbxref=NCBI_GP:ALI57107.1;Name=ALI57107.1;end_range=310,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ALI57107.1;start_range=.,1
+
+##sequence-region KR816333.1 1 310
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KR816333.1	Genbank	region	1	310	.	+	.	ID=KR816333.1:1..310;Dbxref=taxon:64320;collection-date=May-2015;country=Brazil;gbkey=Src;genome=genomic;isolate=BR/UFBA/LabViro/23;isolation-source=blood;mol_type=genomic RNA;nat-host=Homo sapiens
+KR816333.1	Genbank	CDS	1	310	.	+	0	ID=cds-ALI57106.1;Dbxref=NCBI_GP:ALI57106.1;Name=ALI57106.1;end_range=310,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ALI57106.1;start_range=.,1
+
+##sequence-region KT381874.1 1 238
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KT381874.1	Genbank	region	1	238	.	+	.	ID=KT381874.1:1..238;Dbxref=taxon:64320;collection-date=2015;country=Brazil;gbkey=Src;genome=genomic;genotype=Asian;mol_type=genomic RNA;nat-host=Homo sapiens;strain=Zika1697_BR-RJ/2015
+KT381874.1	Genbank	CDS	1	238	.	+	1	ID=cds-AME17706.1;Dbxref=NCBI_GP:AME17706.1;Name=AME17706.1;end_range=238,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AME17706.1;start_range=.,1
+

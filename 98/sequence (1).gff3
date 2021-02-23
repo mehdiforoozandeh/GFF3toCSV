@@ -1,0 +1,510 @@
+##sequence-region KX062045.1 1 349
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KX062045.1	Genbank	region	1	349	.	+	.	ID=KX062045.1:1..349;Dbxref=taxon:64320;collection-date=17-Dec-2014;country=Haiti;gbkey=Src;genome=genomic;identified-by=John Lednicky;isolate=Haiti/1230/2014;isolation-source=plasma;mol_type=genomic RNA;nat-host=Homo sapiens
+KX062045.1	Genbank	CDS	1	349	.	+	0	ID=cds-AMY50630.1;Dbxref=NCBI_GP:AMY50630.1;Name=AMY50630.1;end_range=349,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AMY50630.1;start_range=.,1
+
+##sequence-region KX062044.1 1 349
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KX062044.1	Genbank	region	1	349	.	+	.	ID=KX062044.1:1..349;Dbxref=taxon:64320;collection-date=15-Dec-2014;country=Haiti;gbkey=Src;genome=genomic;identified-by=John Lednicky;isolate=Haiti/1227/2014;isolation-source=plasma;mol_type=genomic RNA;nat-host=Homo sapiens
+KX062044.1	Genbank	CDS	1	349	.	+	0	ID=cds-AMY50629.1;Dbxref=NCBI_GP:AMY50629.1;Name=AMY50629.1;end_range=349,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AMY50629.1;start_range=.,1
+
+##sequence-region MH252920.1 1 207
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH252920.1	Genbank	region	1	207	.	+	.	ID=MH252920.1:1..207;Dbxref=taxon:64320;collection-date=Jun-2017;country=Brazil: Cuiaba%2C MT;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Arthropod;strain=ZIKV_BR/MT_CbaAr60/2017
+MH252920.1	Genbank	CDS	1	207	.	+	0	ID=cds-AWK27348.1;Dbxref=NCBI_GP:AWK27348.1;Name=AWK27348.1;end_range=207,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWK27348.1;start_range=.,1
+
+##sequence-region MH252919.1 1 333
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH252919.1	Genbank	region	1	333	.	+	.	ID=MH252919.1:1..333;Dbxref=taxon:64320;collection-date=May-2017;country=Brazil: Cuiaba%2C MT;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Arthropod;strain=ZIKV_BR/MT_CbaAr51/2017
+MH252919.1	Genbank	CDS	1	333	.	+	0	ID=cds-AWK27347.1;Dbxref=NCBI_GP:AWK27347.1;Name=AWK27347.1;end_range=333,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWK27347.1;start_range=.,1
+
+##sequence-region MH252918.1 1 213
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH252918.1	Genbank	region	1	213	.	+	.	ID=MH252918.1:1..213;Dbxref=taxon:64320;collection-date=May-2017;country=Brazil: Cuiaba%2C MT;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Arthropod;strain=ZIKV_BR/MT_CbaAr45/2017
+MH252918.1	Genbank	CDS	1	213	.	+	0	ID=cds-AWK27346.1;Dbxref=NCBI_GP:AWK27346.1;Name=AWK27346.1;end_range=213,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWK27346.1;start_range=.,1
+
+##sequence-region MH252915.1 1 309
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH252915.1	Genbank	region	1	309	.	+	.	ID=MH252915.1:1..309;Dbxref=taxon:64320;collection-date=May-2017;country=Brazil: Cuiaba%2C MT;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Arthropod;strain=ZIKV_BR/MT_CbaAr43/2017
+MH252915.1	Genbank	CDS	1	309	.	+	0	ID=cds-AWK27345.1;Dbxref=NCBI_GP:AWK27345.1;Name=AWK27345.1;end_range=309,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWK27345.1;start_range=.,1
+
+##sequence-region MH252914.1 1 209
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH252914.1	Genbank	region	1	209	.	+	.	ID=MH252914.1:1..209;Dbxref=taxon:64320;collection-date=2017;country=Brazil: Cuiaba%2C MT;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Arthropod;strain=ZIKV_BR/MT_CbaAr62/2017
+MH252914.1	Genbank	CDS	1	209	.	+	0	ID=cds-AWK27344.1;Dbxref=NCBI_GP:AWK27344.1;Name=AWK27344.1;end_range=209,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWK27344.1;start_range=.,1
+
+##sequence-region MH249067.1 1 355
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH249067.1	Genbank	region	1	355	.	+	.	ID=MH249067.1:1..355;Dbxref=taxon:64320;collection-date=2016;country=Brazil: Belo Horizonte;gbkey=Src;genome=genomic;genotype=Asian;isolate=BH_0516_SALIVA;mol_type=genomic RNA;nat-host=Homo sapiens
+MH249067.1	Genbank	CDS	1	355	.	+	1	ID=cds-AWK27070.1;Dbxref=NCBI_GP:AWK27070.1;Name=AWK27070.1;end_range=355,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWK27070.1;start_range=.,1
+
+##sequence-region MH249066.1 1 171
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH249066.1	Genbank	region	1	171	.	+	.	ID=MH249066.1:1..171;Dbxref=taxon:64320;collection-date=2016;country=Brazil: Belo Horizonte;gbkey=Src;genome=genomic;genotype=Asian;isolate=BH_0216_SALIVA;mol_type=genomic RNA;nat-host=Homo sapiens
+MH249066.1	Genbank	CDS	1	171	.	+	1	ID=cds-AWK27069.1;Dbxref=NCBI_GP:AWK27069.1;Name=AWK27069.1;end_range=171,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWK27069.1;start_range=.,1
+
+##sequence-region MH249065.1 1 317
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH249065.1	Genbank	region	1	317	.	+	.	ID=MH249065.1:1..317;Dbxref=taxon:64320;collection-date=2016;country=Brazil: Belo Horizonte;gbkey=Src;genome=genomic;genotype=Asian;isolate=BH_0516_URINA;mol_type=genomic RNA;nat-host=Homo sapiens
+MH249065.1	Genbank	CDS	1	317	.	+	1	ID=cds-AWK27068.1;Dbxref=NCBI_GP:AWK27068.1;Name=AWK27068.1;end_range=317,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWK27068.1;start_range=.,1
+
+##sequence-region MH249064.1 1 317
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH249064.1	Genbank	region	1	317	.	+	.	ID=MH249064.1:1..317;Dbxref=taxon:64320;collection-date=2016;country=Brazil: Belo Horizonte;gbkey=Src;genome=genomic;genotype=Asian;isolate=BH_0216_URINA;mol_type=genomic RNA;nat-host=Homo sapiens
+MH249064.1	Genbank	CDS	1	317	.	+	1	ID=cds-AWK27067.1;Dbxref=NCBI_GP:AWK27067.1;Name=AWK27067.1;end_range=317,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWK27067.1;start_range=.,1
+
+##sequence-region MH249063.1 1 317
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH249063.1	Genbank	region	1	317	.	+	.	ID=MH249063.1:1..317;Dbxref=taxon:64320;collection-date=2016;country=Brazil: Belo Horizonte;gbkey=Src;genome=genomic;genotype=Asian;isolate=BH_0216_SORO;mol_type=genomic RNA;nat-host=Homo sapiens
+MH249063.1	Genbank	CDS	1	317	.	+	1	ID=cds-AWK27066.1;Dbxref=NCBI_GP:AWK27066.1;Name=AWK27066.1;end_range=317,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWK27066.1;start_range=.,1
+
+##sequence-region MH249062.1 1 317
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH249062.1	Genbank	region	1	317	.	+	.	ID=MH249062.1:1..317;Dbxref=taxon:64320;collection-date=2016;country=Brazil: Belo Horizonte;gbkey=Src;genome=genomic;genotype=Asian;isolate=BH_0116_URINA;mol_type=genomic RNA;nat-host=Homo sapiens
+MH249062.1	Genbank	CDS	1	317	.	+	1	ID=cds-AWK27065.1;Dbxref=NCBI_GP:AWK27065.1;Name=AWK27065.1;end_range=317,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWK27065.1;start_range=.,1
+
+##sequence-region MF926508.1 1 841
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MF926508.1	Genbank	region	1	841	.	+	.	ID=MF926508.1:1..841;Dbxref=taxon:64320;collection-date=13-Oct-2016;country=Nigeria;gbkey=Src;genome=genomic;isolate=JH160;mol_type=genomic RNA;nat-host=Homo sapiens
+MF926508.1	Genbank	CDS	1	841	.	+	1	ID=cds-ATE48554.1;Dbxref=NCBI_GP:ATE48554.1;Name=ATE48554.1;end_range=841,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ATE48554.1;start_range=.,1
+
+##sequence-region MH130044.1 1 574
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH130044.1	Genbank	region	1	574	.	+	.	ID=MH130044.1:1..574;Dbxref=taxon:64320;collection-date=13-Dec-2016;country=Malaysia;gbkey=Src;genome=genomic;isolate=MyH414_Sel;isolation-source=urine;mol_type=genomic RNA;nat-host=Homo sapiens
+MH130044.1	Genbank	CDS	1	574	.	+	2	ID=cds-AWC05826.1;Dbxref=NCBI_GP:AWC05826.1;Name=AWC05826.1;end_range=574,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWC05826.1;start_range=.,1
+
+##sequence-region MH130043.1 1 574
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH130043.1	Genbank	region	1	574	.	+	.	ID=MH130043.1:1..574;Dbxref=taxon:64320;collection-date=25-Sep-2016;country=Malaysia;gbkey=Src;genome=genomic;isolate=MyH349_Sbh;isolation-source=serum;mol_type=genomic RNA;nat-host=Homo sapiens
+MH130043.1	Genbank	CDS	1	574	.	+	2	ID=cds-AWC05825.1;Dbxref=NCBI_GP:AWC05825.1;Name=AWC05825.1;end_range=574,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWC05825.1;start_range=.,1
+
+##sequence-region MH130042.1 1 574
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH130042.1	Genbank	region	1	574	.	+	.	ID=MH130042.1:1..574;Dbxref=taxon:64320;collection-date=12-Sep-2016;country=Malaysia;gbkey=Src;genome=genomic;isolate=MyH335_KL;isolation-source=serum;mol_type=genomic RNA;nat-host=Homo sapiens
+MH130042.1	Genbank	CDS	1	574	.	+	2	ID=cds-AWC05824.1;Dbxref=NCBI_GP:AWC05824.1;Name=AWC05824.1;end_range=574,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AWC05824.1;start_range=.,1
+
+##sequence-region MG287146.1 1 251
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MG287146.1	Genbank	region	1	251	.	+	.	ID=MG287146.1:1..251;Dbxref=taxon:64320;collection-date=29-Jun-2017;country=India;gbkey=Src;genome=genomic;isolate=ZIKV/Krishnagiri/MCVR3745AC/2017;isolation-source=urine;mol_type=genomic RNA;nat-host=Homo sapiens
+MG287146.1	Genbank	CDS	1	251	.	+	0	ID=cds-ATY41151.1;Dbxref=NCBI_GP:ATY41151.1;Name=ATY41151.1;end_range=251,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ATY41151.1;start_range=.,1
+
+##sequence-region KX906956.1 1 574
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KX906956.1	Genbank	region	1	574	.	+	.	ID=KX906956.1:1..574;Dbxref=taxon:64320;collection-date=11-Sep-2016;country=Malaysia;gbkey=Src;genome=genomic;isolate=MyH334PL_Sar;isolation-source=serum;mol_type=genomic RNA;nat-host=Homo sapiens
+KX906956.1	Genbank	CDS	1	574	.	+	2	ID=cds-AOV86381.1;Dbxref=NCBI_GP:AOV86381.1;Name=AOV86381.1;end_range=574,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AOV86381.1;start_range=.,1
+
+##sequence-region KX906955.1 1 574
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KX906955.1	Genbank	region	1	574	.	+	.	ID=KX906955.1:1..574;Dbxref=taxon:64320;collection-date=05-Sep-2016;country=Malaysia;gbkey=Src;genome=genomic;isolate=MyH326PL_JB;isolation-source=urine;mol_type=genomic RNA;nat-host=Homo sapiens
+KX906955.1	Genbank	CDS	1	574	.	+	2	ID=cds-AOV86380.1;Dbxref=NCBI_GP:AOV86380.1;Name=AOV86380.1;end_range=574,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AOV86380.1;start_range=.,1
+
+##sequence-region KX906954.1 1 574
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KX906954.1	Genbank	region	1	574	.	+	.	ID=KX906954.1:1..574;Dbxref=taxon:64320;collection-date=01-Sep-2016;country=Malaysia;gbkey=Src;genome=genomic;isolate=MyH319_Sbh;isolation-source=serum;mol_type=genomic RNA;nat-host=Homo sapiens
+KX906954.1	Genbank	CDS	1	574	.	+	2	ID=cds-AOV86379.1;Dbxref=NCBI_GP:AOV86379.1;Name=AOV86379.1;end_range=574,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AOV86379.1;start_range=.,1
+
+##sequence-region KX906953.1 1 574
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KX906953.1	Genbank	region	1	574	.	+	.	ID=KX906953.1:1..574;Dbxref=taxon:64320;collection-date=31-Aug-2016;country=Malaysia;gbkey=Src;genome=genomic;isolate=MyH318_JB;isolation-source=urine;mol_type=genomic RNA;nat-host=Homo sapiens
+KX906953.1	Genbank	CDS	1	574	.	+	2	ID=cds-AOV86378.1;Dbxref=NCBI_GP:AOV86378.1;Name=AOV86378.1;end_range=574,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AOV86378.1;start_range=.,1
+
+##sequence-region KY042045.1 1 340
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KY042045.1	Genbank	region	1	340	.	+	.	ID=KY042045.1:1..340;Dbxref=taxon:64320;collection-date=25-Jul-2016;country=Viet Nam;gbkey=Src;genome=genomic;isolation-source=urine;mol_type=genomic RNA;nat-host=Homo sapiens;strain=Zika/VietNam/16725
+KY042045.1	Genbank	CDS	1	340	.	+	0	ID=cds-APB91662.1;Dbxref=NCBI_GP:APB91662.1;Name=APB91662.1;end_range=340,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=APB91662.1;start_range=.,1
+
+##sequence-region KY042044.1 1 340
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KY042044.1	Genbank	region	1	340	.	+	.	ID=KY042044.1:1..340;Dbxref=taxon:64320;collection-date=11-Jul-2016;country=Puerto Rico;gbkey=Src;genome=genomic;isolation-source=urine;mol_type=genomic RNA;nat-host=Homo sapiens;strain=Zika/PuertoRico/16711
+KY042044.1	Genbank	CDS	1	340	.	+	0	ID=cds-APB91661.1;Dbxref=NCBI_GP:APB91661.1;Name=APB91661.1;end_range=340,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=APB91661.1;start_range=.,1
+
+##sequence-region KY042043.1 1 340
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KY042043.1	Genbank	region	1	340	.	+	.	ID=KY042043.1:1..340;Dbxref=taxon:64320;collection-date=29-Jun-2016;country=Guatemala;gbkey=Src;genome=genomic;isolation-source=urine;mol_type=genomic RNA;nat-host=Homo sapiens;strain=Zika/Guatemala/16629
+KY042043.1	Genbank	CDS	1	340	.	+	0	ID=cds-APB91660.1;Dbxref=NCBI_GP:APB91660.1;Name=APB91660.1;end_range=340,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=APB91660.1;start_range=.,1
+
+##sequence-region KY042042.1 1 340
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KY042042.1	Genbank	region	1	340	.	+	.	ID=KY042042.1:1..340;Dbxref=taxon:64320;collection-date=11-May-2016;country=Philippines;gbkey=Src;genome=genomic;isolation-source=saliva;mol_type=genomic RNA;nat-host=Homo sapiens;strain=Zika/Batangas/16511
+KY042042.1	Genbank	CDS	1	340	.	+	0	ID=cds-APB91659.1;Dbxref=NCBI_GP:APB91659.1;Name=APB91659.1;end_range=340,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=APB91659.1;start_range=.,1
+
+##sequence-region KY042041.1 1 340
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KY042041.1	Genbank	region	1	340	.	+	.	ID=KY042041.1:1..340;Dbxref=taxon:64320;collection-date=27-Apr-2016;country=Philippines;gbkey=Src;genome=genomic;isolation-source=urine;mol_type=genomic RNA;nat-host=Homo sapiens;strain=Zika/Boracay/16427
+KY042041.1	Genbank	CDS	1	340	.	+	0	ID=cds-APB91658.1;Dbxref=NCBI_GP:APB91658.1;Name=APB91658.1;end_range=340,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=APB91658.1;start_range=.,1
+
+##sequence-region KY042040.1 1 340
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KY042040.1	Genbank	region	1	340	.	+	.	ID=KY042040.1:1..340;Dbxref=taxon:64320;collection-date=23-Apr-2016;country=Philippines;gbkey=Src;genome=genomic;isolation-source=urine;mol_type=genomic RNA;nat-host=Homo sapiens;strain=Zika/Boracay/16423
+KY042040.1	Genbank	CDS	1	340	.	+	0	ID=cds-APB91657.1;Dbxref=NCBI_GP:APB91657.1;Name=APB91657.1;end_range=340,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=APB91657.1;start_range=.,1
+
+##sequence-region KY042039.1 1 340
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KY042039.1	Genbank	region	1	340	.	+	.	ID=KY042039.1:1..340;Dbxref=taxon:64320;collection-date=21-Mar-2016;country=Brazil;gbkey=Src;genome=genomic;isolation-source=serum;mol_type=genomic RNA;nat-host=Homo sapiens%3B Korean patient;strain=Zika/Brazil/16321
+KY042039.1	Genbank	CDS	1	340	.	+	0	ID=cds-APB91656.1;Dbxref=NCBI_GP:APB91656.1;Name=APB91656.1;end_range=340,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=APB91656.1;start_range=.,1
+
+##sequence-region KY561345.1 1 391
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KY561345.1	Genbank	region	1	391	.	+	.	ID=KY561345.1:1..391;Dbxref=taxon:64320;collection-date=24-Feb-2016;country=Brazil;gbkey=Src;isolate=ES24;mol_type=genomic RNA;nat-host=Homo sapiens;strain=Asian
+KY561345.1	Genbank	CDS	1	391	.	+	0	ID=cds-AQQ13230.1;Dbxref=NCBI_GP:AQQ13230.1;Name=AQQ13230.1;end_range=391,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AQQ13230.1;start_range=.,1
+
+##sequence-region KY561344.1 1 410
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KY561344.1	Genbank	region	1	410	.	+	.	ID=KY561344.1:1..410;Dbxref=taxon:64320;collection-date=19-Feb-2016;country=Brazil;gbkey=Src;isolate=ES1_2;mol_type=genomic RNA;nat-host=Homo sapiens;strain=Asian
+KY561344.1	Genbank	CDS	1	410	.	+	0	ID=cds-AQQ13229.1;Dbxref=NCBI_GP:AQQ13229.1;Name=AQQ13229.1;end_range=410,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AQQ13229.1;start_range=.,1
+
+##sequence-region KY561343.1 1 421
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KY561343.1	Genbank	region	1	421	.	+	.	ID=KY561343.1:1..421;Dbxref=taxon:64320;collection-date=19-Feb-2016;country=Brazil;gbkey=Src;isolate=ES1_1;mol_type=genomic RNA;nat-host=Homo sapiens;strain=Asian
+KY561343.1	Genbank	CDS	1	421	.	+	0	ID=cds-AQQ13228.1;Dbxref=NCBI_GP:AQQ13228.1;Name=AQQ13228.1;end_range=421,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AQQ13228.1;start_range=.,1
+
+##sequence-region KX173844.1 1 843
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KX173844.1	Genbank	region	1	843	.	+	.	ID=KX173844.1:1..843;Dbxref=taxon:64320;collection-date=16-Mar-2016;country=Brazil;gbkey=Src;genome=genomic;isolate=16Z62;isolation-source=plasma;mol_type=genomic RNA;nat-host=Homo sapiens
+KX173844.1	Genbank	CDS	1	843	.	+	0	ID=cds-ANC90424.1;Dbxref=NCBI_GP:ANC90424.1;Name=ANC90424.1;end_range=843,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ANC90424.1;start_range=.,1
+
+##sequence-region KX173843.1 1 849
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KX173843.1	Genbank	region	1	849	.	+	.	ID=KX173843.1:1..849;Dbxref=taxon:64320;collection-date=16-Mar-2016;country=Brazil;gbkey=Src;genome=genomic;isolate=16Z62;isolation-source=sinovial;mol_type=genomic RNA;nat-host=Homo sapiens
+KX173843.1	Genbank	CDS	1	849	.	+	0	ID=cds-ANC90423.1;Dbxref=NCBI_GP:ANC90423.1;Name=ANC90423.1;end_range=849,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ANC90423.1;start_range=.,1
+
+##sequence-region KX173842.1 1 329
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KX173842.1	Genbank	region	1	329	.	+	.	ID=KX173842.1:1..329;Dbxref=taxon:64320;collection-date=11-Feb-2016;country=Brazil;gbkey=Src;genome=genomic;isolate=16Z08;isolation-source=plasma;mol_type=genomic RNA;nat-host=Homo sapiens
+KX173842.1	Genbank	CDS	1	329	.	+	0	ID=cds-ANC90422.1;Dbxref=NCBI_GP:ANC90422.1;Name=ANC90422.1;end_range=329,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ANC90422.1;start_range=.,1
+
+##sequence-region KX173841.1 1 927
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KX173841.1	Genbank	region	1	927	.	+	.	ID=KX173841.1:1..927;Dbxref=taxon:64320;collection-date=25-Jan-2016;country=Brazil;gbkey=Src;genome=genomic;isolate=16Z11;isolation-source=plasma;mol_type=genomic RNA;nat-host=Homo sapiens
+KX173841.1	Genbank	CDS	1	927	.	+	0	ID=cds-ANC90421.1;Dbxref=NCBI_GP:ANC90421.1;Name=ANC90421.1;end_range=927,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ANC90421.1;start_range=.,1
+
+##sequence-region KX173840.1 1 927
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KX173840.1	Genbank	region	1	927	.	+	.	ID=KX173840.1:1..927;Dbxref=taxon:64320;collection-date=16-Jan-2016;country=Brazil;gbkey=Src;genome=genomic;isolate=16Z10;isolation-source=plasma;mol_type=genomic RNA;nat-host=Homo sapiens
+KX173840.1	Genbank	CDS	1	927	.	+	0	ID=cds-ANC90420.1;Dbxref=NCBI_GP:ANC90420.1;Name=ANC90420.1;end_range=927,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ANC90420.1;start_range=.,1
+
+##sequence-region KU985088.1 1 360
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KU985088.1	Genbank	region	1	360	.	+	.	ID=KU985088.1:1..360;Dbxref=taxon:64320;collection-date=30-Nov-2015;country=Mexico: Chiapas;gbkey=Src;genome=genomic;isolate=MEX/InDRE/Zika-2/2015;isolation-source=Serum;mol_type=genomic RNA;nat-host=Homo sapiens%3B 46 years old%3B male
+KU985088.1	Genbank	CDS	1	360	.	+	1	ID=cds-AMR96779.1;Dbxref=NCBI_GP:AMR96779.1;Name=AMR96779.1;end_range=360,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AMR96779.1;start_range=.,1
+
+##sequence-region KR816336.1 1 310
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KR816336.1	Genbank	region	1	310	.	+	.	ID=KR816336.1:1..310;Dbxref=taxon:64320;collection-date=May-2015;country=Brazil;gbkey=Src;genome=genomic;isolate=BR/UFBA/LabViro/17;isolation-source=blood;mol_type=genomic RNA;nat-host=Homo sapiens
+KR816336.1	Genbank	CDS	1	310	.	+	0	ID=cds-ALI57109.1;Dbxref=NCBI_GP:ALI57109.1;Name=ALI57109.1;end_range=310,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ALI57109.1;start_range=.,1
+
+##sequence-region KR816335.1 1 309
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KR816335.1	Genbank	region	1	309	.	+	.	ID=KR816335.1:1..309;Dbxref=taxon:64320;collection-date=May-2015;country=Brazil;gbkey=Src;genome=genomic;isolate=BR/UFBA/LabViro/18;isolation-source=blood;mol_type=genomic RNA;nat-host=Homo sapiens
+KR816335.1	Genbank	CDS	1	309	.	+	0	ID=cds-ALI57108.1;Dbxref=NCBI_GP:ALI57108.1;Name=ALI57108.1;end_range=309,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ALI57108.1;start_range=.,1
+
+##sequence-region KR816334.1 1 310
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KR816334.1	Genbank	region	1	310	.	+	.	ID=KR816334.1:1..310;Dbxref=taxon:64320;collection-date=May-2015;country=Brazil;gbkey=Src;genome=genomic;isolate=BR/UFBA/LabViro/Ex1;isolation-source=blood;mol_type=genomic RNA;nat-host=Homo sapiens
+KR816334.1	Genbank	CDS	1	310	.	+	0	ID=cds-ALI57107.1;Dbxref=NCBI_GP:ALI57107.1;Name=ALI57107.1;end_range=310,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ALI57107.1;start_range=.,1
+
+##sequence-region KR816333.1 1 310
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KR816333.1	Genbank	region	1	310	.	+	.	ID=KR816333.1:1..310;Dbxref=taxon:64320;collection-date=May-2015;country=Brazil;gbkey=Src;genome=genomic;isolate=BR/UFBA/LabViro/23;isolation-source=blood;mol_type=genomic RNA;nat-host=Homo sapiens
+KR816333.1	Genbank	CDS	1	310	.	+	0	ID=cds-ALI57106.1;Dbxref=NCBI_GP:ALI57106.1;Name=ALI57106.1;end_range=310,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=ALI57106.1;start_range=.,1
+
+##sequence-region KR815990.1 1 330
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KR815990.1	Genbank	region	1	330	.	+	.	ID=KR815990.1:1..330;Dbxref=taxon:64320;collection-date=2015;country=Brazil;gbkey=Src;genome=genomic;isolate=15098;mol_type=genomic RNA;nat-host=Homo sapiens
+KR815990.1	Genbank	CDS	1	330	.	+	0	ID=cds-AKN44264.1;Dbxref=NCBI_GP:AKN44264.1;Name=AKN44264.1;end_range=330,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AKN44264.1;start_range=.,1
+
+##sequence-region KR815989.1 1 330
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KR815989.1	Genbank	region	1	330	.	+	.	ID=KR815989.1:1..330;Dbxref=taxon:64320;collection-date=2015;country=Brazil;gbkey=Src;genome=genomic;isolate=15095;mol_type=genomic RNA;nat-host=Homo sapiens
+KR815989.1	Genbank	CDS	1	330	.	+	0	ID=cds-AKN44263.1;Dbxref=NCBI_GP:AKN44263.1;Name=AKN44263.1;end_range=330,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AKN44263.1;start_range=.,1
+
+##sequence-region KF383046.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383046.1	Genbank	region	1	753	.	+	.	ID=KF383046.1:1..753;Dbxref=taxon:64320;collection-date=1999;country=Cote d'Ivoire;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArA982
+KF383046.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43468.1;Dbxref=NCBI_GP:AHL43468.1;Name=AHL43468.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43468.1;start_range=.,1
+
+##sequence-region KF383045.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383045.1	Genbank	region	1	753	.	+	.	ID=KF383045.1:1..753;Dbxref=taxon:64320;collection-date=1990;country=Cote d'Ivoire;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArA27106
+KF383045.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43467.1;Dbxref=NCBI_GP:AHL43467.1;Name=AHL43467.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43467.1;start_range=.,1
+
+##sequence-region KF383044.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383044.1	Genbank	region	1	753	.	+	.	ID=KF383044.1:1..753;Dbxref=taxon:64320;collection-date=1990;country=Cote d'Ivoire;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArA27407
+KF383044.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43466.1;Dbxref=NCBI_GP:AHL43466.1;Name=AHL43466.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43466.1;start_range=.,1
+
+##sequence-region KF383043.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383043.1	Genbank	region	1	753	.	+	.	ID=KF383043.1:1..753;Dbxref=taxon:64320;collection-date=1990;country=Cote d'Ivoire;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArA27443
+KF383043.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43465.1;Dbxref=NCBI_GP:AHL43465.1;Name=AHL43465.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43465.1;start_range=.,1
+
+##sequence-region KF383042.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383042.1	Genbank	region	1	753	.	+	.	ID=KF383042.1:1..753;Dbxref=taxon:64320;collection-date=1990;country=Cote d'Ivoire;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArA27096
+KF383042.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43464.1;Dbxref=NCBI_GP:AHL43464.1;Name=AHL43464.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43464.1;start_range=.,1
+
+##sequence-region KF383041.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383041.1	Genbank	region	1	753	.	+	.	ID=KF383041.1:1..753;Dbxref=taxon:64320;collection-date=1990;country=Cote d'Ivoire;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArA27290
+KF383041.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43463.1;Dbxref=NCBI_GP:AHL43463.1;Name=AHL43463.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43463.1;start_range=.,1
+
+##sequence-region KF383040.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383040.1	Genbank	region	1	753	.	+	.	ID=KF383040.1:1..753;Dbxref=taxon:64320;collection-date=1990;country=Cote d'Ivoire;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArA27101
+KF383040.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43462.1;Dbxref=NCBI_GP:AHL43462.1;Name=AHL43462.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43462.1;start_range=.,1
+
+##sequence-region KF383039.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383039.1	Genbank	region	1	753	.	+	.	ID=KF383039.1:1..753;Dbxref=taxon:64320;collection-date=1991;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=HD78788
+KF383039.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43461.1;Dbxref=NCBI_GP:AHL43461.1;Name=AHL43461.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43461.1;start_range=.,1
+
+##sequence-region KF383038.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383038.1	Genbank	region	1	753	.	+	.	ID=KF383038.1:1..753;Dbxref=taxon:64320;collection-date=1999;country=Cote d'Ivoire;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArA986
+KF383038.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43460.1;Dbxref=NCBI_GP:AHL43460.1;Name=AHL43460.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43460.1;start_range=.,1
+
+##sequence-region KF383037.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383037.1	Genbank	region	1	753	.	+	.	ID=KF383037.1:1..753;Dbxref=taxon:64320;collection-date=1996;country=Cote d'Ivoire;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArA506
+KF383037.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43459.1;Dbxref=NCBI_GP:AHL43459.1;Name=AHL43459.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43459.1;start_range=.,1
+
+##sequence-region KF383036.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383036.1	Genbank	region	1	753	.	+	.	ID=KF383036.1:1..753;Dbxref=taxon:64320;collection-date=1999;country=Cote d'Ivoire;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArA975
+KF383036.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43458.1;Dbxref=NCBI_GP:AHL43458.1;Name=AHL43458.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43458.1;start_range=.,1
+
+##sequence-region KF383035.1 1 735
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383035.1	Genbank	region	1	735	.	+	.	ID=KF383035.1:1..735;Dbxref=taxon:64320;collection-date=1963;country=Uganda;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=MR1429
+KF383035.1	Genbank	CDS	1	735	.	+	0	ID=cds-AHL43457.1;Dbxref=NCBI_GP:AHL43457.1;Name=AHL43457.1;end_range=735,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43457.1;start_range=.,1
+
+##sequence-region KF383034.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383034.1	Genbank	region	1	753	.	+	.	ID=KF383034.1:1..753;Dbxref=taxon:64320;collection-date=1979;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD30156
+KF383034.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43456.1;Dbxref=NCBI_GP:AHL43456.1;Name=AHL43456.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43456.1;start_range=.,1
+
+##sequence-region KF383033.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383033.1	Genbank	region	1	753	.	+	.	ID=KF383033.1:1..753;Dbxref=taxon:64320;collection-date=1979;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=AnD30332
+KF383033.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43455.1;Dbxref=NCBI_GP:AHL43455.1;Name=AHL43455.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43455.1;start_range=.,1
+
+##sequence-region KF383032.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383032.1	Genbank	region	1	753	.	+	.	ID=KF383032.1:1..753;Dbxref=taxon:64320;collection-date=1979;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD30101
+KF383032.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43454.1;Dbxref=NCBI_GP:AHL43454.1;Name=AHL43454.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43454.1;start_range=.,1
+
+##sequence-region KF383031.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383031.1	Genbank	region	1	753	.	+	.	ID=KF383031.1:1..753;Dbxref=taxon:64320;collection-date=1969;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD9957
+KF383031.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43453.1;Dbxref=NCBI_GP:AHL43453.1;Name=AHL43453.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43453.1;start_range=.,1
+
+##sequence-region KF383030.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383030.1	Genbank	region	1	753	.	+	.	ID=KF383030.1:1..753;Dbxref=taxon:64320;collection-date=1981;country=Burkina Faso;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArA2718
+KF383030.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43452.1;Dbxref=NCBI_GP:AHL43452.1;Name=AHL43452.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43452.1;start_range=.,1
+
+##sequence-region KF383029.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383029.1	Genbank	region	1	753	.	+	.	ID=KF383029.1:1..753;Dbxref=taxon:64320;collection-date=2002;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD165522
+KF383029.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43451.1;Dbxref=NCBI_GP:AHL43451.1;Name=AHL43451.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43451.1;start_range=.,1
+
+##sequence-region KF383028.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383028.1	Genbank	region	1	753	.	+	.	ID=KF383028.1:1..753;Dbxref=taxon:64320;collection-date=2002;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD165531
+KF383028.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43450.1;Dbxref=NCBI_GP:AHL43450.1;Name=AHL43450.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43450.1;start_range=.,1
+
+##sequence-region KF383027.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383027.1	Genbank	region	1	753	.	+	.	ID=KF383027.1:1..753;Dbxref=taxon:64320;collection-date=1997;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD127710
+KF383027.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43449.1;Dbxref=NCBI_GP:AHL43449.1;Name=AHL43449.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43449.1;start_range=.,1
+
+##sequence-region KF383026.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383026.1	Genbank	region	1	753	.	+	.	ID=KF383026.1:1..753;Dbxref=taxon:64320;collection-date=1997;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD127994
+KF383026.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43448.1;Dbxref=NCBI_GP:AHL43448.1;Name=AHL43448.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43448.1;start_range=.,1
+
+##sequence-region KF383025.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383025.1	Genbank	region	1	753	.	+	.	ID=KF383025.1:1..753;Dbxref=taxon:64320;collection-date=1997;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD127707
+KF383025.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43447.1;Dbxref=NCBI_GP:AHL43447.1;Name=AHL43447.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43447.1;start_range=.,1
+
+##sequence-region KF383024.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383024.1	Genbank	region	1	753	.	+	.	ID=KF383024.1:1..753;Dbxref=taxon:64320;collection-date=1997;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD127984
+KF383024.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43446.1;Dbxref=NCBI_GP:AHL43446.1;Name=AHL43446.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43446.1;start_range=.,1
+
+##sequence-region KF383023.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383023.1	Genbank	region	1	753	.	+	.	ID=KF383023.1:1..753;Dbxref=taxon:64320;collection-date=1997;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD127987
+KF383023.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43445.1;Dbxref=NCBI_GP:AHL43445.1;Name=AHL43445.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43445.1;start_range=.,1
+
+##sequence-region KF383022.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383022.1	Genbank	region	1	753	.	+	.	ID=KF383022.1:1..753;Dbxref=taxon:64320;collection-date=1997;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD127988
+KF383022.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43444.1;Dbxref=NCBI_GP:AHL43444.1;Name=AHL43444.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43444.1;start_range=.,1
+
+##sequence-region KF383021.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383021.1	Genbank	region	1	753	.	+	.	ID=KF383021.1:1..753;Dbxref=taxon:64320;collection-date=1998;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD132912
+KF383021.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43443.1;Dbxref=NCBI_GP:AHL43443.1;Name=AHL43443.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43443.1;start_range=.,1
+
+##sequence-region KF383020.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383020.1	Genbank	region	1	753	.	+	.	ID=KF383020.1:1..753;Dbxref=taxon:64320;collection-date=1980;country=Cote d'Ivoire;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArA1465
+KF383020.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43442.1;Dbxref=NCBI_GP:AHL43442.1;Name=AHL43442.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43442.1;start_range=.,1
+
+##sequence-region KF383019.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383019.1	Genbank	region	1	753	.	+	.	ID=KF383019.1:1..753;Dbxref=taxon:64320;collection-date=1998;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD132915
+KF383019.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43441.1;Dbxref=NCBI_GP:AHL43441.1;Name=AHL43441.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43441.1;start_range=.,1
+
+##sequence-region KF383018.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383018.1	Genbank	region	1	753	.	+	.	ID=KF383018.1:1..753;Dbxref=taxon:64320;collection-date=2000;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD141170
+KF383018.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43440.1;Dbxref=NCBI_GP:AHL43440.1;Name=AHL43440.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43440.1;start_range=.,1
+
+##sequence-region KF383017.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383017.1	Genbank	region	1	753	.	+	.	ID=KF383017.1:1..753;Dbxref=taxon:64320;collection-date=2001;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD149938
+KF383017.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43439.1;Dbxref=NCBI_GP:AHL43439.1;Name=AHL43439.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43439.1;start_range=.,1
+
+##sequence-region KF383016.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383016.1	Genbank	region	1	753	.	+	.	ID=KF383016.1:1..753;Dbxref=taxon:64320;collection-date=2001;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD147917
+KF383016.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43438.1;Dbxref=NCBI_GP:AHL43438.1;Name=AHL43438.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43438.1;start_range=.,1
+
+##sequence-region KF383015.1 1 753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KF383015.1	Genbank	region	1	753	.	+	.	ID=KF383015.1:1..753;Dbxref=taxon:64320;collection-date=2001;country=Senegal;gbkey=Src;genome=genomic;mol_type=genomic RNA;strain=ArD149810
+KF383015.1	Genbank	CDS	1	753	.	+	0	ID=cds-AHL43437.1;Dbxref=NCBI_GP:AHL43437.1;Name=AHL43437.1;end_range=753,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AHL43437.1;start_range=.,1
+
+##sequence-region KT381874.1 1 238
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+KT381874.1	Genbank	region	1	238	.	+	.	ID=KT381874.1:1..238;Dbxref=taxon:64320;collection-date=2015;country=Brazil;gbkey=Src;genome=genomic;genotype=Asian;mol_type=genomic RNA;nat-host=Homo sapiens;strain=Zika1697_BR-RJ/2015
+KT381874.1	Genbank	CDS	1	238	.	+	1	ID=cds-AME17706.1;Dbxref=NCBI_GP:AME17706.1;Name=AME17706.1;end_range=238,.;gbkey=CDS;partial=true;product=envelope protein;protein_id=AME17706.1;start_range=.,1
+
+##sequence-region AF372422.1 1 830
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+AF372422.1	Genbank	region	1	830	.	+	.	ID=AF372422.1:1..830;Dbxref=taxon:64320;gbkey=Src;mol_type=genomic RNA
+AF372422.1	Genbank	gene	1	830	.	+	.	ID=gene-E;Name=E;end_range=830,.;gbkey=Gene;gene=E;gene_biotype=protein_coding;partial=true;start_range=.,1
+AF372422.1	Genbank	CDS	1	830	.	+	1	ID=cds-AAK91609.1;Parent=gene-E;Dbxref=NCBI_GP:AAK91609.1;Name=AAK91609.1;end_range=830,.;gbkey=CDS;gene=E;partial=true;product=envelope protein;protein_id=AAK91609.1;start_range=.,1
+
+##sequence-region MT309008.1 1 570
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT309008.1	Genbank	region	1	570	.	+	.	ID=MT309008.1:1..570;Dbxref=taxon:64320;collection-date=2018;country=Mexico;gbkey=Src;genome=genomic;isolate=ZIKV-Yuc005;mol_type=genomic RNA;nat-host=Culex thriambus
+MT309008.1	Genbank	gene	1	570	.	+	.	ID=gene-POLY;Name=POLY;end_range=570,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT309008.1	Genbank	CDS	1	570	.	+	0	ID=cds-QJX19953.1;Parent=gene-POLY;Dbxref=NCBI_GP:QJX19953.1;Name=QJX19953.1;end_range=570,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QJX19953.1;start_range=.,1
+MT309008.1	Genbank	mature_protein_region_of_CDS	1	570	.	+	.	ID=id-QJX19953.1:1..190;Parent=cds-QJX19953.1;end_range=570,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MT309007.1 1 570
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT309007.1	Genbank	region	1	570	.	+	.	ID=MT309007.1:1..570;Dbxref=taxon:64320;collection-date=2019;country=Mexico;gbkey=Src;genome=genomic;isolate=ZIKV-Yuc004;mol_type=genomic RNA;nat-host=Culex nigripalpus
+MT309007.1	Genbank	gene	1	570	.	+	.	ID=gene-POLY-2;Name=POLY;end_range=570,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT309007.1	Genbank	CDS	1	570	.	+	0	ID=cds-QJX19952.1;Parent=gene-POLY-2;Dbxref=NCBI_GP:QJX19952.1;Name=QJX19952.1;end_range=570,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QJX19952.1;start_range=.,1
+MT309007.1	Genbank	mature_protein_region_of_CDS	1	570	.	+	.	ID=id-QJX19952.1:1..190;Parent=cds-QJX19952.1;end_range=570,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MT309006.1 1 570
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT309006.1	Genbank	region	1	570	.	+	.	ID=MT309006.1:1..570;Dbxref=taxon:64320;collection-date=2018;country=Mexico;gbkey=Src;genome=genomic;isolate=ZIKV-Yuc003;mol_type=genomic RNA;nat-host=Culex lactator
+MT309006.1	Genbank	gene	1	570	.	+	.	ID=gene-POLY-3;Name=POLY;end_range=570,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT309006.1	Genbank	CDS	1	570	.	+	0	ID=cds-QJX19951.1;Parent=gene-POLY-3;Dbxref=NCBI_GP:QJX19951.1;Name=QJX19951.1;end_range=570,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QJX19951.1;start_range=.,1
+MT309006.1	Genbank	mature_protein_region_of_CDS	1	570	.	+	.	ID=id-QJX19951.1:1..190;Parent=cds-QJX19951.1;end_range=570,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MT309005.1 1 570
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT309005.1	Genbank	region	1	570	.	+	.	ID=MT309005.1:1..570;Dbxref=taxon:64320;collection-date=2018;country=Mexico;gbkey=Src;genome=genomic;isolate=ZIKV-Yuc002;mol_type=genomic RNA;nat-host=Ochlerotatus taeniorhynchus
+MT309005.1	Genbank	gene	1	570	.	+	.	ID=gene-POLY-4;Name=POLY;end_range=570,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT309005.1	Genbank	CDS	1	570	.	+	0	ID=cds-QJX19950.1;Parent=gene-POLY-4;Dbxref=NCBI_GP:QJX19950.1;Name=QJX19950.1;end_range=570,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QJX19950.1;start_range=.,1
+MT309005.1	Genbank	mature_protein_region_of_CDS	1	570	.	+	.	ID=id-QJX19950.1:1..190;Parent=cds-QJX19950.1;end_range=570,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MT309004.1 1 570
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT309004.1	Genbank	region	1	570	.	+	.	ID=MT309004.1:1..570;Dbxref=taxon:64320;collection-date=2018;country=Mexico;gbkey=Src;genome=genomic;isolate=ZIKV-Yuc001;mol_type=genomic RNA;nat-host=Aedes aegypti
+MT309004.1	Genbank	gene	1	570	.	+	.	ID=gene-POLY-5;Name=POLY;end_range=570,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT309004.1	Genbank	CDS	1	570	.	+	0	ID=cds-QJX19949.1;Parent=gene-POLY-5;Dbxref=NCBI_GP:QJX19949.1;Name=QJX19949.1;end_range=570,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QJX19949.1;start_range=.,1
+MT309004.1	Genbank	mature_protein_region_of_CDS	1	570	.	+	.	ID=id-QJX19949.1:1..190;Parent=cds-QJX19949.1;end_range=570,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MT671184.1 1 268
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT671184.1	Genbank	region	1	268	.	+	.	ID=MT671184.1:1..268;Dbxref=taxon:64320;collection-date=24-Jun-2020;country=Mexico;gbkey=Src;isolate=M-6R;mol_type=genomic RNA;nat-host=bat
+MT671184.1	Genbank	gene	1	268	.	+	.	ID=gene-POLY-6;Name=POLY;end_range=268,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT671184.1	Genbank	CDS	1	268	.	+	1	ID=cds-QNC49706.1;Parent=gene-POLY-6;Dbxref=NCBI_GP:QNC49706.1;Name=QNC49706.1;end_range=268,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QNC49706.1;start_range=.,1
+MT671184.1	Genbank	mature_protein_region_of_CDS	1	268	.	+	.	ID=id-QNC49706.1:1..89;Parent=cds-QNC49706.1;end_range=268,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MT671183.1 1 301
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MT671183.1	Genbank	region	1	301	.	+	.	ID=MT671183.1:1..301;Dbxref=taxon:64320;collection-date=24-Jun-2020;country=Mexico;gbkey=Src;isolate=M-1R;mol_type=genomic RNA;nat-host=bat
+MT671183.1	Genbank	gene	1	301	.	+	.	ID=gene-POLY-7;Name=POLY;end_range=301,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT671183.1	Genbank	CDS	1	301	.	+	2	ID=cds-QNC49705.1;Parent=gene-POLY-7;Dbxref=NCBI_GP:QNC49705.1;Name=QNC49705.1;end_range=301,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QNC49705.1;start_range=.,1
+MT671183.1	Genbank	mature_protein_region_of_CDS	1	301	.	+	.	ID=id-QNC49705.1:1..100;Parent=cds-QNC49705.1;end_range=301,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MN527290.1 1 331
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MN527290.1	Genbank	region	1	331	.	+	.	ID=MN527290.1:1..331;Dbxref=taxon:64320;collection-date=23-Aug-2017;country=Thailand: Kamphaeng Phet;gbkey=Src;genome=genomic;genotype=Asian;isolate=R012/Mosq/AFRIMS-THA/2017;mol_type=genomic RNA;nat-host=Aedes aegypti
+MN527290.1	Genbank	gene	1	331	.	+	.	ID=gene-POLY-8;Name=POLY;end_range=331,.;gbkey=Gene;gene=POLY;gene_biotype=protein_coding;partial=true;start_range=.,1
+MN527290.1	Genbank	CDS	1	331	.	+	0	ID=cds-QFQ59581.1;Parent=gene-POLY-8;Dbxref=NCBI_GP:QFQ59581.1;Name=QFQ59581.1;end_range=331,.;gbkey=CDS;gene=POLY;partial=true;product=polyprotein;protein_id=QFQ59581.1;start_range=.,1
+MN527290.1	Genbank	mature_protein_region_of_CDS	1	331	.	+	.	ID=id-QFQ59581.1:1..110;Parent=cds-QFQ59581.1;end_range=331,.;gbkey=Prot;partial=true;product=envelope protein E;start_range=.,1
+
+##sequence-region MH027651.1 1 207
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH027651.1	Genbank	region	1	207	.	+	.	ID=MH027651.1:1..207;Dbxref=taxon:64320;collection-date=2017;country=Brazil: Cuiaba%2C MT;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Arthropod;strain=ZIKV_BR/MT_CbaAr52/2017
+MH027651.1	Genbank	CDS	1	207	.	+	0	ID=cds-AVZ47163.1;Dbxref=NCBI_GP:AVZ47163.1;Name=AVZ47163.1;end_range=207,.;gbkey=CDS;partial=true;product=polyprotein;protein_id=AVZ47163.1;start_range=.,1
+
+##sequence-region LC322992.1 1 366
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+LC322992.1	DDBJ	region	1	366	.	+	.	ID=LC322992.1:1..366;Dbxref=taxon:64320;collection-date=2016-09-01;country=Malaysia:Sabah;gbkey=Src;mol_type=genomic RNA;nat-host=Homo sapiens;note=genotype: Asian Lineage;strain=SZ1-2016
+LC322992.1	DDBJ	gene	1	366	.	+	.	ID=gene-env;Name=env;end_range=366,.;gbkey=Gene;gene=env;gene_biotype=protein_coding;partial=true;start_range=.,1
+LC322992.1	DDBJ	CDS	1	366	.	+	0	ID=cds-BBD19639.1;Parent=gene-env;Dbxref=NCBI_GP:BBD19639.1;Name=BBD19639.1;Note=envelope protein;end_range=366,.;gbkey=CDS;gene=env;partial=true;product=polyprotein;protein_id=BBD19639.1;start_range=.,1
+
+##sequence-region LC229347.1 1 366
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+LC229347.1	DDBJ	region	1	366	.	+	.	ID=LC229347.1:1..366;Dbxref=taxon:64320;collection-date=2016-09-30;country=Malaysia:Sabah;gbkey=Src;isolation-source=human stool;mol_type=genomic RNA;nat-host=Homo sapiens;note=genotype: Asian Lineage;strain=SZ2-2016
+LC229347.1	DDBJ	gene	1	366	.	+	.	ID=gene-env-2;Name=env;end_range=366,.;gbkey=Gene;gene=env;gene_biotype=protein_coding;partial=true;start_range=.,1
+LC229347.1	DDBJ	CDS	1	366	.	+	0	ID=cds-BBA57860.1;Parent=gene-env-2;Dbxref=NCBI_GP:BBA57860.1;Name=BBA57860.1;Note=envelope protein;end_range=366,.;gbkey=CDS;gene=env;partial=true;product=polyprotein;protein_id=BBA57860.1;start_range=.,1
+
+##sequence-region MH306204.1 1 210
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH306204.1	Genbank	region	1	210	.	+	.	ID=MH306204.1:1..210;Dbxref=taxon:64320;collection-date=2015;country=Brazil: Cuiaba%2C MT;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Homo sapiens%3B sex: male;strain=ZIKV_BR/MT_CbaH_1585/2015
+MH306204.1	Genbank	CDS	1	210	.	+	0	ID=cds-AWW18909.1;Dbxref=NCBI_GP:AWW18909.1;Name=AWW18909.1;end_range=210,.;gbkey=CDS;partial=true;product=polyprotein;protein_id=AWW18909.1;start_range=.,1
+MH306204.1	Genbank	mature_protein_region_of_CDS	1	210	.	+	.	ID=id-AWW18909.1:1..70;Parent=cds-AWW18909.1;end_range=210,.;gbkey=Prot;partial=true;product=envelope protein;start_range=.,1
+
+##sequence-region MH306203.1 1 206
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH306203.1	Genbank	region	1	206	.	+	.	ID=MH306203.1:1..206;Dbxref=taxon:64320;collection-date=Feb-2016;country=Brazil: Cuiaba%2C MT;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Homo sapiens%3B sex: female;strain=ZIKV_BR/MT_CbaH_12/2016
+MH306203.1	Genbank	CDS	1	206	.	+	2	ID=cds-AWW18908.1;Dbxref=NCBI_GP:AWW18908.1;Name=AWW18908.1;end_range=206,.;gbkey=CDS;partial=true;product=polyprotein;protein_id=AWW18908.1;start_range=.,1
+MH306203.1	Genbank	mature_protein_region_of_CDS	1	206	.	+	.	ID=id-AWW18908.1:1..68;Parent=cds-AWW18908.1;end_range=206,.;gbkey=Prot;partial=true;product=envelope protein;start_range=.,1
+
+##sequence-region MH306202.1 1 206
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH306202.1	Genbank	region	1	206	.	+	.	ID=MH306202.1:1..206;Dbxref=taxon:64320;collection-date=Sep-2015;country=Brazil: Cuiaba%2C MT;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Homo sapiens%3B sex: female;strain=ZIKV_BR/MT_CbaH_1631/2015
+MH306202.1	Genbank	CDS	1	206	.	+	1	ID=cds-AWW18907.1;Dbxref=NCBI_GP:AWW18907.1;Name=AWW18907.1;end_range=206,.;gbkey=CDS;partial=true;product=polyprotein;protein_id=AWW18907.1;start_range=.,1
+MH306202.1	Genbank	mature_protein_region_of_CDS	1	206	.	+	.	ID=id-AWW18907.1:1..68;Parent=cds-AWW18907.1;end_range=206,.;gbkey=Prot;partial=true;product=envelope protein;start_range=.,1
+
+##sequence-region MH306201.1 1 203
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH306201.1	Genbank	region	1	203	.	+	.	ID=MH306201.1:1..203;Dbxref=taxon:64320;collection-date=Oct-2015;country=Brazil: Cuiaba%2C MT;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Homo sapiens%3B sex: male;strain=ZIKV_BR/MT_CbaH_1673/2015
+MH306201.1	Genbank	CDS	1	203	.	+	0	ID=cds-AWW18906.1;Dbxref=NCBI_GP:AWW18906.1;Name=AWW18906.1;end_range=203,.;gbkey=CDS;partial=true;product=polyprotein;protein_id=AWW18906.1;start_range=.,1
+MH306201.1	Genbank	mature_protein_region_of_CDS	1	203	.	+	.	ID=id-AWW18906.1:1..67;Parent=cds-AWW18906.1;end_range=203,.;gbkey=Prot;partial=true;product=envelope protein;start_range=.,1
+
+##sequence-region MH306200.1 1 213
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=64320
+MH306200.1	Genbank	region	1	213	.	+	.	ID=MH306200.1:1..213;Dbxref=taxon:64320;collection-date=Aug-2015;country=Brazil: Cuiaba%2C MT;gbkey=Src;genome=genomic;mol_type=genomic RNA;nat-host=Homo sapiens%3B sex: female;strain=ZIKV_BR/MT_CbaH_1586/2015"
+MH306200.1	Genbank	CDS	1	213	.	+	0	ID=cds-AWW18905.1;Dbxref=NCBI_GP:AWW18905.1;Name=AWW18905.1;end_range=213,.;gbkey=CDS;partial=true;product=polyprotein;protein_id=AWW18905.1;start_range=.,1
+MH306200.1	Genbank	mature_protein_region_of_CDS	1	213	.	+	.	ID=id-AWW18905.1:1..71;Parent=cds-AWW18905.1;end_range=213,.;gbkey=Prot;partial=true;product=envelope protein;start_range=.,1
+
+##sequence-region LY712921.1 1 37
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=32630
+LY712921.1	DDBJ	region	1	37	.	+	.	ID=LY712921.1:1..37;Dbxref=taxon:32630;gbkey=Src;mol_type=other DNA
+
+##sequence-region LY712920.1 1 35
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=32630
+LY712920.1	DDBJ	region	1	35	.	+	.	ID=LY712920.1:1..35;Dbxref=taxon:32630;gbkey=Src;mol_type=other DNA
+
+##sequence-region LY712919.1 1 27
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=32630
+LY712919.1	DDBJ	region	1	27	.	+	.	ID=LY712919.1:1..27;Dbxref=taxon:32630;gbkey=Src;mol_type=other DNA
+
+##sequence-region LY712918.1 1 28
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=32630
+LY712918.1	DDBJ	region	1	28	.	+	.	ID=LY712918.1:1..28;Dbxref=taxon:32630;gbkey=Src;mol_type=other DNA
+
